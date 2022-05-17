@@ -1,3 +1,5 @@
+// JS для добавления слеша в url наведённой ссылки и для выделения красным цветом предыдущей
+
 $(document).ready(function () {
     let url;
     let previousElement = false;

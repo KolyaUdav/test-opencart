@@ -27,8 +27,11 @@ class ControllerModuleCategory extends Controller {
 
 		$this->load->model('catalog/product');
 
-		$this->data['categories'] = array();
+		$this->data['category'] = array();
 
+        /* Получаем конкретную родительскую категорию из модели (ранее здесь был getCategories()
+            Также убран foreach, перебирающий родительские категории
+         */
         $category = $this->model_catalog_category->getCategory($this->data['category_id']);
 
         $children_data = array();

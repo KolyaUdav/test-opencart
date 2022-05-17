@@ -194,3 +194,4 @@
 2022-05-17 10:10:30 - PHP Unknown:  Function mcrypt_create_iv() is deprecated in C:\laragon\www\system\library\encryption.php on line 8
 2022-05-17 10:10:34 - PHP Unknown:  Function mcrypt_create_iv() is deprecated in C:\laragon\www\system\library\encryption.php on line 8
 2022-05-17 10:10:38 - PHP Unknown:  Function mcrypt_create_iv() is deprecated in C:\laragon\www\system\library\encryption.php on line 8
+2022-05-17 10:16:32 - PHP Unknown:  Function mcrypt_create_iv() is deprecated in C:\laragon\www\system\library\encryption.php on line 8

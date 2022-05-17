@@ -21,7 +21,7 @@ define('DIR_LOGS', 'C:\laragon\www/system/logs/');
 define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'qwerty');
 define('DB_DATABASE', 'opencart');
 define('DB_PREFIX', 'oc_');
 ?>

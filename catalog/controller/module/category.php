@@ -18,7 +18,7 @@ class ControllerModuleCategory extends Controller {
 		}
 
 		if (isset($parts[1])) {
-			$this->data['child_id'] = $parts[1];
+			$this->data['child_id'] = intval($parts[1]);
 		} else {
 			$this->data['child_id'] = 0;
 		}
